@@ -31,6 +31,7 @@ test
 >  + https://www.virustotal.com/gui/
 > - Yara : 설치
 
+<hr />
 
 
 ## 제목(Header)
@@ -133,5 +134,39 @@ test
 test1 | test 2
 test1234556 | test
 
+`-`가 3개 이상일때 변환 가능
+
+
 
 <hr />
+
+
+
+## 이미지(Image)
+![Kayak][logo]
+
+[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
+
+
+![test][logo1]
+
+[logo1]: https://www.google.com/logos/2007/ru_knowledge_day07.gif "googlelogo"
+
+![test](https://www.google.com/logos/2007/il_backtoschool07.gif "googole")
+
+#### 이미지에 링크
+[![test](https://www.google.com/logos/2007/il_backtoschool07.gif)](https://google.com/)
+
+
+<hr />
+
+
+## 인라인(inline)코드 강조
+`test` 숫자 1번키 왼쪽에 있는`(Grave)를 입력하세요
+ - MACBOOK 기준 한글일땐 `₩` 영문일때 `출력 됩니다.
+
+
+
+
+
+
